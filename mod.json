@@ -1,0 +1,11 @@
+{
+  "Id": "InfiniteEnergy",
+  "DisplayName": "Infinite Energy",
+  "Author": "Oldark",
+  "Version": "1.1",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "InfiniteEnergy.dll",
+  "EntryMethod": "InfiniteEnergy.MainPatcher.Patch",
+  "Config": {}
+}

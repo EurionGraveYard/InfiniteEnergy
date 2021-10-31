@@ -1,0 +1,7 @@
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\bin\Debug\InfiniteEnergy.dll
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\bin\Debug\InfiniteEnergy.pdb
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\obj\Debug\InfiniteEnergy.csproj.CoreCompileInputs.cache
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\obj\Debug\InfiniteEnergy.dll
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\obj\Debug\InfiniteEnergy.pdb
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\bin\Debug\mod.json
+C:\Users\mizzi\Downloads\GraveYardKeeperMods\glibfire-infiniteenergy-09b894486212\InfiniteEnergy\obj\Debug\InfiniteEnergy.csproj.AssemblyReference.cache
